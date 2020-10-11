@@ -24,7 +24,7 @@ i am a pro bot managed by  beast army.
 
 IF YOU WANT THIS BOT TAKE PERMISSISON FROM BEAST ARMY OWNER.
 
-about beast army- it's group created by my boss join - @beast_army..
+about beast army- it's group created by my boss..
 
 to see my commands click this /help...
 
