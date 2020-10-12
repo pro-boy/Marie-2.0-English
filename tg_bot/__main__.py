@@ -18,13 +18,13 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-hoi {}, my name is {}! if you have any questions about how to use me please give me /help... 
+hui {}, my name is {}! if you have any questions about how to use me please give me /help... 
 
 i am a pro bot managed by  beast army.
 
 IF YOU WANT THIS BOT TAKE PERMISSISON FROM BEAST ARMY OWNER.
 
-about beast army- it's group created by my boss..
+about beast army- it's group created by my boss it's a best group to join tap @beast_army..
 
 to see my commands click this /help...
 
